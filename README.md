@@ -32,3 +32,23 @@ Agent Productivity Dashboard is an interactive MS Excel dashboard designed to an
 - How is the workforce distributed across different processes?
 - How does performance change when filtering by location, day, reporting manager, or other available dimensions?
 - Dashboard Interaction <a href="https://github.com/Ashrafulmondal527/Agent-Productivity-Workforce-Performance-Analytics-Dashboard/blob/main/APR%20Dashboard%20Image.png">View Dashboard</a>
+
+## Process
+- Verify data using Power Query for any missing values, errors and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and value used.
+- Create pivot table using power pivot according to the question asked.
+- Marge all pivot table into one dashboard and apply slicer to make dynamic.
+
+## Key KPIs
+
+The dashboard provides a consolidated view of the following operational KPIs:
+
+| KPI | Dashboard Result | Target/Benchmark |
+|---|---:|---:|
+| **Total Agents** | 491 | — |
+| **Average AHT** | 166 sec | **< 240 sec** |
+| **Average Quality** | 96.36% | **> 90%** |
+| **Average Schedule Adherence** | 94% | **> 90%** |
+| **Average Shrinkage** | 6% | **> 15%** |
+
+## Dashboard
