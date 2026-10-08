@@ -39,6 +39,10 @@ Agent Productivity Dashboard is an interactive MS Excel dashboard designed to an
 - Create pivot table using power pivot according to the question asked.
 - Marge all pivot table into one dashboard and apply slicer to make dynamic.
 
+## Dashboard
+<img width="2897" height="1432" alt="APR Dashboard Image" src="https://github.com/user-attachments/assets/d1acc7fb-82ae-41a0-aa12-784b957d97e8" />
+
+
 ## Key KPIs
 
 The dashboard provides a consolidated view of the following operational KPIs:
@@ -51,4 +55,3 @@ The dashboard provides a consolidated view of the following operational KPIs:
 | **Average Schedule Adherence** | 94% | **> 90%** |
 | **Average Shrinkage** | 6% | **> 15%** |
 
-## Dashboard
