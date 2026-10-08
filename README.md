@@ -31,7 +31,7 @@ Agent Productivity Dashboard is an interactive MS Excel dashboard designed to an
 - Which agents are performing best in Schedule Adherence?
 - How is the workforce distributed across different processes?
 - How does performance change when filtering by location, day, reporting manager, or other available dimensions?
-- Dashboard Interaction <a href="https://github.com/Ashrafulmondal527/Agent-Productivity-Workforce-Performance-Analytics-Dashboard/blob/main/APR%20Dashboard%20Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Ashrafulmondal527/Agent-Productivity-Workforce-Performance-Analytics-Dashboard/blob/main/APR%20Dashboard%20Image.jpeg">View Dashboard</a>
 
 ## Process
 - Verify data using Power Query for any missing values, errors and sort out the same.
