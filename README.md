@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-An interactive Microsoft Excel dashboard designed to analyze agent
+An interactive Microsoft Excel dashboard designed to analyse agent
 productivity, quality, efficiency, schedule adherence, shrinkage,
 and process distribution.
 
@@ -52,17 +52,17 @@ comparisons, and agent-level rankings.
 ## 🛠️ Tools & Skills
 
 - Microsoft Excel.
-- Power Query
-- Power Pivot
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Excel Formulas
-- KPI Development
-- Data Visualization
-- Dashboard Design
-- Data Analysis
-- Business Intelligence
+- Power Query.
+- Power Pivot.
+- Pivot Tables.
+- Pivot Charts.
+- Slicers.
+- Excel Formulas.
+- KPI Development.
+- Data Visualization.
+- Dashboard Design.
+- Data Analysis.
+- Business Intelligence.
 
 ## 📈 Dashboard
 
