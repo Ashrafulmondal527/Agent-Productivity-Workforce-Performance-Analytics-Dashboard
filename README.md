@@ -89,3 +89,13 @@ The dashboard provides a consolidated view of the following operational KPIs:
 - Shrinkage shows considerable variation between agents.
 - Several agents demonstrate strong Schedule Adherence of 94–98%.
 - High quality and low AHT indicate strong operational efficiency.
+
+## 🎯 Conclusion
+
+This project demonstrates how Microsoft Excel can be used to transform workforce operational data into meaningful business insights through an interactive dashboard. By consolidating key performance indicators such as Average Handle Time (AHT), Quality Score, Schedule Adherence, Shrinkage, and agent distribution, the dashboard provides a comprehensive overview of workforce productivity and operational performance.
+
+The analysis highlights that the workforce achieved an average Quality Score of **96.36%**, exceeding the defined target of 90%, while the average AHT of **166 seconds** remained 74 seconds below the maximum target of 240 seconds. Average Schedule Adherence stood at **94%**, and overall Shrinkage was approximately **6%** across 491 agents.
+
+These results indicate positive performance against the defined quality and AHT benchmarks, while variations in agent-level shrinkage and adherence provide opportunities for further investigation and targeted improvement. The dashboard enables users to explore performance across available reporting dimensions, compare individual and team-level results, identify potential performance gaps, and support data-driven operational decisions.
+
+Overall, this project strengthened my practical skills in **Excel-based data analysis, KPI monitoring, interactive dashboard development, data visualization, and business performance reporting**. It demonstrates how well-structured reporting can help management monitor operational efficiency, maintain service quality, and identify areas for continuous improvement.
